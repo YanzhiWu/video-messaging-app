@@ -1,0 +1,8 @@
+{
+  "mongodb": "mongodb+srv://yanzhiwu:yanzhiwu@videomessagingapp.qbeju.mongodb.net/VideoMessagingApp?retryWrites=true&w=majority",
+  "port": 8080,
+  "environments" : {
+    "test": {},
+    "travis": {}
+  }
+}
